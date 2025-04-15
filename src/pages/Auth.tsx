@@ -58,7 +58,7 @@ const Auth = () => {
     <div className="min-h-screen bg-gray-50 flex flex-col items-center justify-center p-4">
       <div className="w-full max-w-md">
         <div className="mb-10 text-center">
-          <h1 className="text-3xl font-bold text-rhythm-primary mb-2">Rhythm</h1>
+          <h1 className="text-3xl font-bold text-rhythm-primary mb-2">Zenher</h1>
           <p className="text-gray-500">Track your cycle with ease</p>
         </div>
 
